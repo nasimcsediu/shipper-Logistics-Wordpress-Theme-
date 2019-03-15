@@ -1,0 +1,21 @@
+ /* 
+Theme Name: Shipper Transport
+theme url: http://nasim.com
+version: 1.0
+ author: Md.Nashim Hasan 
+Description: Logistic and Transportation  Wordpress Theme 
+Tags: logistic, transportation, package, delivery, cargo, carousel, post, moving, caring
+
+ */
+
+ /*add style custom csss */
+
+ .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #413686;
+    color: #ffba00 !important;
+    border-top: 3px solid #ffba00 !important;
+}
+.news .news-sidebar .widget ul li {
+    width: auto;
+   
+}
